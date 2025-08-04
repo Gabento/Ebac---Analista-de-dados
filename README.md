@@ -5,3 +5,7 @@ Para executar o arquivo:
 ```bash
 chmod +x calculadora.sh
 ./calculadora.sh
+```
+
+Explicação código Python:
+  O código em si é bem auto intuitivo, ele recebe operações aritméticas simples e retorna o resultado.
