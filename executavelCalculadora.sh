@@ -1,2 +1,3 @@
-chmod +x calculadora.sh
-./calculadora.sh
+#!/bin/bash
+
+python3 calculadora.py
